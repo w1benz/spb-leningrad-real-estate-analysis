@@ -5,7 +5,7 @@ most attractive market segments, seasonal trends, and regional differences
 across Saint Petersburg and the Leningrad Oblast — supporting a
 go-to-market and dashboard-driven business strategy.
 
-**Dashboard:** [Yandex DataLens](https://datalens.yandex.cloud/uexzz6cp08mih)
+**Dashboard:** [Yandex DataLens](https://datalens.yandex/uexzz6cp08mih)  
 *(Yandex login required — see screenshots below for a preview)*
 
 ---

@@ -182,7 +182,8 @@ lowest in **May** (also a low-volume month) and highest in **August**.
 
 ## 7. Dashboard Preview
 
-*(screenshots to be added)*
+<img width="1465" height="596" alt="image" src="https://github.com/user-attachments/assets/52e3e3aa-bc4c-40a2-8982-74da94aaeae9" />
+<img width="1470" height="622" alt="image" src="https://github.com/user-attachments/assets/c4b6f7ef-b58c-4cbd-977b-4b8bfad38173" />
 
 ---
 
